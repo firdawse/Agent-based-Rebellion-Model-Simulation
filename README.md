@@ -24,4 +24,6 @@ A similar model is also included with NetLogo:
 
 Wilensky, U. (2004). *NetLogo Rebellion model*. [http://ccl.northwestern.edu/netlogo/models/Rebellion](http://ccl.northwestern.edu/netlogo/models/Rebellion). Center for Connected Learning and Computer-Based Modeling, Northwestern University, Evanston, IL.
 
+###Authors :
+Firdawse Guerbouzi , Chaimae JALLOULI
 
