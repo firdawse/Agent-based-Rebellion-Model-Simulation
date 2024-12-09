@@ -11,7 +11,9 @@ $ solara run app.py
 - **model.py**: Core model code.
 - **agent.py**: Agent classes.
 - **app.py**: Sets up the interactive visualization.
-- **Epstein Civil Violence.ipynb**: Jupyter notebook conducting some preliminary analysis of the model.
+- **data.py**:Collects data for simulation
+- **scenario3.py**:Collects data for the third scenario
+
 
 ## Further Reading
 This model is adapted from:
